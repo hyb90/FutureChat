@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "385820392547",
+    "firebase_url": "https://futurechat-7bed1.firebaseio.com",
+    "project_id": "futurechat-7bed1",
+    "storage_bucket": "futurechat-7bed1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385820392547:android:cc5b575a83637c46eb8c56",
+        "android_client_info": {
+          "package_name": "com.humam.FutureChat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "385820392547-tsnoj8q1l63uk8acvnth5kt7cjnvhnfg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZNd1e5g0i9_IOpsu6pnTMYzrW1T8NjsA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "385820392547-tsnoj8q1l63uk8acvnth5kt7cjnvhnfg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
